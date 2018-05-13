@@ -23,6 +23,6 @@ https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=
 * The app.py program write to the mongo database. This can be verified by using the "mongo" prompt and running the command 
 db.mars_images.find(). Please mote the DB is app(the name of the app in app.py, mars_images is the collection name. 
 </br>
-On running this command we see that the dictionary generated from mars_scrape.scrape is saved in the Mongo databse.
+On running this command we see that the dictionary generated from mars_scrape.scrape() is saved in the Mongo database.
 </br>
-
+* Next this dictionary is read and rendered on a Web Page in the index.html file
