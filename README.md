@@ -16,6 +16,7 @@ File name : mission_to_mars.ipynb
 https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars/
 </br></br>
 ##  PART II * Writing to Mongo and reading from Mongo and rendering output to a Web Page using Flask **
+</br>
 * This dictionary will be used in the Python file mars_scrape.py to render a Web Page using Flask.
 </br>
 * In mars_scrape.py there is a method called "scrape" that uses Beautiful Soup to scrape the URL and return a list of dictionaries to app.py, that renders a Web page when you type localhost:5000/scrape.
