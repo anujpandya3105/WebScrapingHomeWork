@@ -1,5 +1,6 @@
-# WebScrapingHomeWork
+### WebScrapingHomeWork
 </br>
+** #Part I , Web scraping using Beautiful Soup and Splinter
 * For Part I of the Home Work , I have used Jupyter notebook to scrape the NASA Website to get infornation about planet Mars.
 </br>
 *** Please make sure that chromeexplorer.exe is in your folder ***
@@ -14,6 +15,7 @@ web page.
 * The critical part of Part I is generating a list of the title and image_url for the pictures rendered from
 https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars/
 </br>
+**  PART II * Writing to Mongo and readin from Mongo and rendering output to a Web Page using Flask **
 * This dictionary will be used in the Python file mars_scrape.py to render a Web Page using Flask.
 </br>
 * In mars_scrape.py there is a method called "scrape" that uses Beautiful Soup to scrape the URL and return a list of dictionaries to app.py, that renders a Web page when you type localhost:5000/scrape.
