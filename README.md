@@ -2,7 +2,7 @@
 </br>
 ## Part I , Web scraping using Beautiful Soup and Splinter
 </br>
-* For Part I of the Home Work , I have used Jupyter notebook to scrape the NASA Website to get infornation about planet Mars.
+* For Part I of the Home Work , I have used Jupyter notebook to scrape the NASA Website to get information about planet Mars.
 </br>
 *** Please make sure that chromeexplorer.exe is in the folder your are running the code ***
 </br>
