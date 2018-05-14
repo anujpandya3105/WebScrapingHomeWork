@@ -4,7 +4,7 @@
 </br>
 * For Part I of the Home Work , I have used Jupyter notebook to scrape the NASA Website to get information about planet Mars.
 </br>
-*** Please make sure that chromeexplorer.exe is in the folder your are running the code ***
+*** Please make sure that chromeexplorer.exe is in the folder where you are running the code ***
 </br>
 File name : mission_to_mars.ipynb
 </br>
