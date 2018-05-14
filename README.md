@@ -14,7 +14,7 @@ File name : mission_to_mars.ipynb
 </br>
 * The critical part of Part I is generating a list of the title and image_url for the pictures rendered from
 https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars/
-</br>
+</br></br>
 ##  PART II * Writing to Mongo and reading from Mongo and rendering output to a Web Page using Flask **
 * This dictionary will be used in the Python file mars_scrape.py to render a Web Page using Flask.
 </br>
