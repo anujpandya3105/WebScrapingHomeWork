@@ -24,7 +24,7 @@ https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=
 * Multiple things happen here 
 </br>
 * The app.py program writes to the mongo database. This can be verified by using the "mongo" prompt and running the command 
-db.mars_images.find(). Please mote the DB is called "app" (the name of the app in app.py),  mars_images is the collection/table name. 
+db.mars_images.find(). Please note the DataBase is called "app" (the name of the app in app.py),  mars_images is the collection/table name. 
 </br>
 On running this command we see that the dictionary generated from mars_scrape.scrape() is saved in the Mongo database.
 </br>
